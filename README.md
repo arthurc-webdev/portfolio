@@ -32,9 +32,13 @@ www.industrial-trading.ro
 www.inchirieriautocva.ro
 <br>
 www.zilelepediatrieiclujene.ro
+<br>
 www.larisarusu.ro
+<br>
 www.spitcocluj.ro
+<br>
 www.gtechromania.ro
+<br>
 www.tuincentru.ro
 
-…and many others built during my 8+ years of professional experience as an employed web developer.
+…and hundreds more built during my 8+ years of professional experience as an employed web developer.

@@ -3,6 +3,12 @@ A curated list of websites and projects I’ve built.
 
 www.hubertusrestaurant.ro
 <br>
+www.doctordetergent.ro
+<br>
+www.laboratoruldesosete.ro
+<br>
+www.superblana.ro
+<br>
 www.contabilsmart.ro
 <br>
 www.bauerfeind.ro

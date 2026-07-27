@@ -13,13 +13,13 @@ www.contabilsmart.ro
 <br>
 www.bauerfeind.ro
 <br>
+www.drurelax.ro
+<br>
 www.lavandemer.ro
 <br>
 www.marius-vornicescu.ro
 <br>
 www.bijoucafe.ro
-<br>
-www.termovsr.ro
 <br>
 www.tafibaazar.ro
 <br>
